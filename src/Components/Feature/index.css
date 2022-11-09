@@ -1,0 +1,14 @@
+.featureBg{  
+    height: 500px;
+    background-image: url("../../assets/images/featureBg.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+.shopNowBtn{
+    background-color: #4175FC;
+    border-radius: 4px;
+    border: none;
+    text-decoration: none;
+    padding: 8px 35px;
+    color: white;
+}

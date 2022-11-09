@@ -1,0 +1,4 @@
+.cateLeftCol ,.cateRightCol,.midCol{
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,33 @@
+.cardText2{
+    display: inline !important;
+}
+.sellerCard {
+    width: 260px;
+    margin-right: 35px;
+    min-height: 450px;
+    margin-top: 20px;
+    border: none!important;
+}
+/* .sellerCard:hover{
+    box-shadow: 2px 8px 5px gray;
+    /* transform: scale(1.1); */
+    /* margin-top:10px ; */
+ 
+    @media screen and (max-width:700px) {
+        .sellerCard{
+           margin-right: 0px;
+
+        }
+
+    }
+ 
+    @media screen and (max-width:345px) {
+        .sellerCard{
+            width: 228px;
+
+        }
+        .shopBox{
+            padding: 60px 20px !important;
+        }
+
+    }

@@ -1,0 +1,29 @@
+.reviewBox{
+    padding: 30px 0px;
+    min-height: 220px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 13px 4px rgba(184,184,184,0.75);
+    -webkit-box-shadow: 2px 2px 13px 4px rgba(184,184,184,0.75);
+    -moz-box-shadow: 2px 2px 13px 4px rgba(184,184,184,0.75);
+}
+
+.revImg{
+    background-image: url("../../assets/images/review1.png");
+    background-size: cover;
+}
+
+.revImg2{
+    background-image: url("../../assets/images/review2.png");
+    background-size: cover;
+}
+
+.revImg3{
+    background-image: url("../../assets/images/review3.png");
+    background-size: cover;
+}
+@media screen and (max-width:763px) {
+    .reviewBox{
+        margin-bottom: 27px;
+    }
+    
+}
