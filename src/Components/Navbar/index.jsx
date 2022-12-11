@@ -5,7 +5,7 @@ import "./index.css";
 import { RiLinkedinFill } from "react-icons/ri";
 import { AiFillInstagram } from "react-icons/ai";
 import { TbMapPin } from "react-icons/tb";
-import logo from "../../assets/images/Slogo3.png"
+import logo from "../../assets/images/nodesLogo.png"
 import {useNavigate} from "react-router-dom"
 import {Link} from "react-router-dom"
 

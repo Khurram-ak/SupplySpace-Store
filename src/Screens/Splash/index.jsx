@@ -1,6 +1,7 @@
 import React from 'react';
 import "./index.css"
-import logo from "../../assets/images/Slogo3.png"
+// import logo from "../../assets/images/Slogo3.png"
+import logo from "../../assets/images/nodesLogo.png"
 import {Spinner} from "reactstrap"
 import { useNavigate } from 'react-router-dom';
 

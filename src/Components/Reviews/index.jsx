@@ -27,7 +27,7 @@ export default function Reviews() {
                         <Container>
                             <Row>
                                 <Col>
-                                    <p>Being a customer is Supply Space, I 'm glad to see Supply Space is growing more faster.</p>
+                                    <p>Being a customer is Supply Nodes, I 'm glad to see Supply Nodes is growing more faster.</p>
                                 </Col>
                             </Row>
                             <Row>
@@ -53,7 +53,7 @@ export default function Reviews() {
                         <Container>
                             <Row>
                                 <Col>
-                                    <p>As a Regular Customer of Supply Space, I'm really very satisfied with them.</p>
+                                    <p>As a Regular Customer of Supply Nodes, I'm really very satisfied with them.</p>
                                 </Col>
                             </Row>
                             <Row>
@@ -79,7 +79,7 @@ export default function Reviews() {
                         <Container>
                             <Row>
                                 <Col>
-                                    <p>Supply Space is really a fast growing online store, which sells what we want.</p>
+                                    <p>Supply Nodes is really a fast growing online store, which sells what we want.</p>
                                 </Col>
                             </Row>
                             <Row>

@@ -8,7 +8,7 @@ import { BsInstagram } from "react-icons/bs"
 import { IoLogoLinkedin } from "react-icons/io"
 import { BsTwitter } from "react-icons/bs"
 
-import footerLogo from "../../assets/images/Slogo2.png"
+import footerLogo from "../../assets/images/nodesLogo.png"
 
 function Footer( ) {
     return <>
@@ -21,7 +21,7 @@ function Footer( ) {
                         <br></br>
                         <div style={{ fontSize: "12px", fontFamily: "PoppinsMed", color: "white", display: "flex" }} >
                              
-                            <p style={{cursor:"pointer" ,paddingLeft: "17px", fontSize: "27px", fontFamily: "PoppinsMed", color: "white" }}>Supply Space </p>
+                            <p style={{cursor:"pointer" ,paddingLeft: "17px", fontSize: "27px", fontFamily: "PoppinsMed", color: "white" }}>Supply Nodes </p>
 
                         </div>
                         <div style={{paddingLeft:"17px",justifyContent:"space-around",width:"50%", fontSize: "18px", fontFamily: "PoppinsMed", color: "white", display: "flex" }} >
@@ -79,7 +79,7 @@ function Footer( ) {
             <Container fluid  style={{    backgroundColor: "black", height: "70px" }}>
             <Row  >
                 <div style={{display:"flex",justifyContent:"space-between",alignItems:"center", height: "70px",padding:"0px 50px" }}>
-                <h3 style={{  cursor:"pointer", fontSize: "12px", fontFamily: "PoppinsMed", color: "white" }}>Copyright © 2022 | Supply Space  </h3>
+                <h3 style={{  cursor:"pointer", fontSize: "12px", fontFamily: "PoppinsMed", color: "white" }}>Copyright © 2022 | Supply Nodes  </h3>
                 <h3 style={{  cursor:"pointer", fontSize: "12px", fontFamily: "PoppinsMed", color: "white" }}> Powered By <a style={{textDecoration:"none",color:"white"}} href="https://www.khurramak.com/">KhurramAk</a>   </h3>
 
                 </div>
